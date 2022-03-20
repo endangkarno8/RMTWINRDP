@@ -12,6 +12,6 @@ https://remotedesktop.google.com/headless
 
 Masukkan Anda enam digit kode Pin untuk Login
 
-(Pin Enam digit apa saja)
+(Pin 123456 )
 
 Itu saja... Setelah 2-3 menit Inisialisasi, Periksa Aplikasi atau Akun CRD Anda.
